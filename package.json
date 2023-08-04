@@ -1,0 +1,19 @@
+{
+  "name": "nasa-simulation",
+  "version": "1.0.0",
+  "description": "Server development on ZTM's frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poudel0/NASA-Simulation.git"
+  },
+  "author": "Sandman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poudel0/NASA-Simulation/issues"
+  },
+  "homepage": "https://github.com/Poudel0/NASA-Simulation#readme"
+}
